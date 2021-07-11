@@ -10,6 +10,8 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Sommes-nous vraiment en guerre ? La France face au Covid-19](https://medium.com/@aminedirhoussi1/sommes-nous-vraiment-en-guerre-la-france-face-au-covid-19-28d57f9fdd5e?source=rss-7fe93e88f36b------2)
+- [Analyzing UFC fighting styles with Machine learning](https://medium.com/@aminedirhoussi1/analyzing-ufc-fighting-styles-with-machine-learning-c664bed18e45?source=rss-7fe93e88f36b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
