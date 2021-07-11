@@ -19,6 +19,11 @@
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
+2. 🗣 Commented on [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
+3. 💪 Opened PR [#1118](https://github.com/voxel51/fiftyone/pull/1118) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
+4. 🗣 Commented on [#1097](https://github.com/voxel51/fiftyone/issues/1097) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
+5. ❗️ Closed issue [#1097](https://github.com/voxel51/fiftyone/issues/1097) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
 <!--END_SECTION:activity-->
 
 
