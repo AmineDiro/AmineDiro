@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Amine.</h2>
 
-- :robot: I’m a Moroccan Datascientist working on computer vision at **Total Energies**.
+- :robot: I’m a Moroccan Freelance Datascientist working on computer vision.
 - 🌱 I’m currently trying to build a model for **Document layout analysis**
 - :muscle: I’m the co-founder of [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
 - 💬 You can ask me about **ML/DL, Python, React Native and WebRTC**
