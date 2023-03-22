@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Amine.</h2>
 
 - :robot: I’m a Moroccan Freelance Datascientist working primarly computer vision state of the art problems.
-- 🌱 I’m currently trying to build a model for **Document layout analysis**
+- 🌱 I’m currently building an end-to-end  **Document near-duplicate solution**
 - :muscle: I’m the co-founder of [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
 - 💬 You can ask me about **ML/DL, Python, React Native and WebRTC**
 - 📫 You can reach me on [@linkedIn](https://www.linkedin.com/in/ahmed-amine-dirhoussi-45213886/)
