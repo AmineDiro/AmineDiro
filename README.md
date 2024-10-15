@@ -8,25 +8,6 @@
 - 🖋️ I write about various technical subjects : [blog](https://aminediro.com)
 - ⚡ I'm also a amateur kickboxer and grappler
 
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Sommes-nous vraiment en guerre ? La France face au Covid-19](https://medium.com/@aminedirhoussi1/sommes-nous-vraiment-en-guerre-la-france-face-au-covid-19-28d57f9fdd5e?source=rss-7fe93e88f36b------2)
-- [Analyzing UFC fighting styles with Machine learning](https://medium.com/@aminedirhoussi1/analyzing-ufc-fighting-styles-with-machine-learning-c664bed18e45?source=rss-7fe93e88f36b------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-:arrow_up: **Latest Github Activity**
-
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1118](https://github.com/voxel51/fiftyone/issues/1118) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
-2. ❗️ Closed issue [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
-3. 🗣 Commented on [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
-4. 💪 Opened PR [#1118](https://github.com/voxel51/fiftyone/pull/1118) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
-5. 🗣 Commented on [#1097](https://github.com/voxel51/fiftyone/issues/1097) in [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
-<!--END_SECTION:activity-->
-
 
 📫  **Where to find me**
 
