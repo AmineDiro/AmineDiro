@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hello! I'm Amine.</h2>
 
 - :robot: I’m a Moroccan Freelance Datascientist working primarly computer vision state of the art problems.
-- 🌱 I’m currently building an end-to-end  **Document near-duplicate solution**
+- 🌱 I’m currently building the best RAG @QuivrHQ
 - :muscle: I’m the co-founder of [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
-- 💬 You can ask me about **ML/DL, Python, Golang, Distributed systems, React Native and WebRTC**
+- 💬 You can ask me about **ML/DL, Rust, Python, Golang and Distributed systems**
 - 📫 You can reach me on [@linkedIn](https://www.linkedin.com/in/ahmed-amine-dirhoussi-45213886/)
 - 🖋️ I write about various technical subjects : [blog](https://aminediro.com)
 - ⚡ I'm also a amateur kickboxer and grappler
