@@ -1,12 +1,12 @@
 <h2 align="center">👋 Hello! I'm Amine.</h2>
 
-- :robot: I’m a Moroccan Freelance Datascientist working primarly computer vision state of the art problems.
-- 🌱 I’m currently building the best RAG @QuivrHQ
-- :muscle: I’m the co-founder of [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
+- :robot: I’m a Moroccan AI engineer. I have worked on computer vision state of the art problems and switched to transformers and LLMs when they took over the world.
+- 🌱 I’m currently the CTO @QuivrHQ. We are 
+- :muscle: I have co-founded [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
 - 💬 You can ask me about **ML/DL, Rust, Python, Golang and Distributed systems**
 - 📫 You can reach me on [@linkedIn](https://www.linkedin.com/in/ahmed-amine-dirhoussi-45213886/)
 - 🖋️ I write about various technical subjects : [blog](https://aminediro.com)
-- ⚡ I'm also a amateur kickboxer and grappler
+- ⚡ I'm also a lifelong martial artist, competed in kickboxing and grappling
 
 
 📫  **Where to find me**
