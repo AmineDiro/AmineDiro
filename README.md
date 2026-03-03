@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Amine.</h2>
 
 - 🇲🇦 I’m a Moroccan AI engineer. I have worked on computer vision state of the art problems and switched to transformers and LLMs when they took over the world.
-- 🤖 I’m currently the ML engineer @huggingface. Working on making RL go brrr
+- 🤗 I’m currently the ML engineer @huggingface. Working on making RL go brrr
 - :muscle: I have co-founded [**Fitroulette App**](beta.fitroulette.app),a webRTC based application for enabling remote fitness sessions
 - 💬 You can ask me about **ML/DL, Rust, Python, Golang and Distributed systems**
 - 📫 You can reach me on [@linkedIn](https://www.linkedin.com/in/ahmed-amine-dirhoussi-45213886/)
